@@ -11,7 +11,6 @@ int main(int argc, char *argv[])
 	printf("input two integers :");
 	scanf("%i %i",&a,&b);	
 	
-	
 	printf("+ result is %i\n",a+b);
 	printf("- result is %i\n",a-b);
 	printf("* result is %i\n",a*b);
