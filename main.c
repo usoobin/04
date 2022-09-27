@@ -5,9 +5,8 @@
 
 int main(int argc, char *argv[]) 
 {
-	int s,m;
+	int s;
 
-		
 	printf("input the second :");
 	scanf("%i",&s);	
 	
